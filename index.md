@@ -1,6 +1,7 @@
 # WELCOME!
 
-I am a student of Industrial Engineering with a passion for supply chain analytics and a potpourri of experiences across data consulting and production engineering. Data driven design of supply chains are important to run sustainable businesses and I believe that I can bring to the table a good mix of theoretical knowledge and analytical know-how in the field.
+I am a student of Industrial Engineering with a passion for supply chain analytics and a potpourri of experiences across data consulting and production engineering. I believe that data driven design of supply chains are important to run sustainable businesses and I aspire to create an impact by bringing to the table a good mix of theoretical knowledge and analytical skills.
+
 
 ## SKILLS
 
