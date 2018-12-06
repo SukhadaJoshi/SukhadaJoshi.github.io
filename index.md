@@ -2,7 +2,6 @@
 
 I am a student of Industrial Engineering with a passion for supply chain analytics and a potpourri of experiences across data consulting and production engineering. (Needs to be much stronger--what are you good at? What are yout interests? Where do you want to go? Why do you like supply chain analytics)
 
-<div class="begin-examples"></div>
 
 ## SKILLS
 
@@ -25,8 +24,18 @@ I am a student of Industrial Engineering with a passion for supply chain analyti
  - SQL
  - MS Office
 
-<div class="end-examples"></div>
-
+<dl>
+ <table border="0">
+  <tr>
+     <td><b style="font-size:30px">Programming</b></td>
+     <td><b style="font-size:30px">Scientific Software</b></td>
+  </tr>
+  <tr>
+     <td>Lorem ipsum ...</td>
+     <td>Lorem ipsum ...</td>
+  </tr>
+ </table>
+</dl>
 
 ### Languages (Spoken)
 - SQL and Transact-SQL based platforms +++++
