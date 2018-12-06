@@ -90,7 +90,7 @@ Tools and concepts used: Poke Yoke, SAP S/4 HANA, Excel
 # EXPERIENCE
 
 ## [ZS Associates](https://www.zs.com/)
-ZS practices deep expertise consulting in data driven sales and marketing strategies for the biggest pharma sales forces in USA.
+ZS practices deep expertise consulting in data driven sales and marketing strategies for the biggest pharma sales forces worldwide.
 
 ## Business Operations Associate
 Pune, India, May 2017 – July 2018
