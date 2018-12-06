@@ -28,7 +28,7 @@ I am a student of Industrial Engineering with a passion for supply chain analyti
 <table style="height: 63px; width: 45.2463%; border-collapse: collapse; border-style: none; float: left;" border="1">
 <tbody>
 <tr style="height: 21px;">
-<td style="width: 16.9365%; height: 21px;">
+<td style="width: 46.6438%; height: 21px;">
 <p><span style="color: #333399;"><strong>Programming</strong><strong></strong></span></p>
 <ul>
 <li>R +</li>
@@ -36,7 +36,7 @@ I am a student of Industrial Engineering with a passion for supply chain analyti
 <li>Matlab ++</li>
 </ul>
 </td>
-<td style="width: 28.1953%; height: 21px;">
+<td style="width: 80.8391%; height: 21px;">
 <p><span style="color: #0000ff;"><strong>Scientific Software</strong></span></p>
 <ul>
 <li>Arena</li>
@@ -46,13 +46,14 @@ I am a student of Industrial Engineering with a passion for supply chain analyti
 </td>
 </tr>
 <tr style="height: 21px;">
-<td style="width: 16.9365%; height: 21px;">
+<td style="width: 46.6438%; height: 21px;">
 <p><strong>Data Visualization</strong></p>
 <ul>
 <li>Tableau ++++</li>
 </ul>
+<p></p>
 </td>
-<td style="width: 28.1953%; height: 21px;">
+<td style="width: 80.8391%; height: 21px;">
 <p><strong>Business Software</strong></p>
 <ul>
 <li>SQL ++++</li>
@@ -62,14 +63,17 @@ I am a student of Industrial Engineering with a passion for supply chain analyti
 </td>
 </tr>
 <tr style="height: 21px;">
-<td style="width: 16.9365%; height: 21px;">
+<td style="width: 46.6438%; height: 21px;">
 <p><strong>Languages</strong></p>
 <ul>
 <li>Hindi</li>
 <li>Marathi</li>
 </ul>
 </td>
-<td style="width: 28.1953%; height: 21px;"><strong>Other</strong></td>
+<td style="width: 80.8391%; height: 21px;">
+<p><strong>Other</strong></p>
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
