@@ -1,21 +1,19 @@
 # WELCOME!
 
-I am a student of Industrial Engineering with a passion for supply chain analytics and a potpourri of experiences across data consulting and production engineering. (Needs to be much stronger--what are you good at? What are yout interests? Where do you want to go? Why do you like supply chain analytics)
-
+I am a student of Industrial Engineering with a passion for supply chain analytics and a potpourri of experiences across data consulting and production engineering. Data driven design of supply chains are important to run sustainable businesses and I believe that I can bring to the table a good mix of theoretical knowledge and analytical know-how in the field.
 
 ## SKILLS
 
-### A
 **Programming**
  - R
  - Python
  - Matlab
 
-**Scientific Software**
+**Engineering**
  - Arena
- - CAD?
+ - Solidworks
 
-### B
+
 **Data Visualization**
  - Tableau
 
@@ -91,24 +89,31 @@ Tools and concepts used: Poke Yoke, SAP S/4 HANA, Excel
 # EXPERIENCE
 
 ## [ZS Associates](https://www.zs.com/)
+ZS practices deep expertise consulting in data driven sales and marketing strategies for the pharma sales forces.
+
 ## Business Operations Associate
 Pune, India, May 2017 – July 2018
 
-Description.
+Incentive Compensation (IC) plans are the instrument for building highly motivated sales forces. As an IC focused Business Operations Associate, I worked on plan design, goal setting and effective reporting of performance-payout relationship to large pharma clients.
+
+Achievements-
  - Automated the sales compensation program for a US based pharmaceutical major to one click mobile reporting
- - Created BI dashboard for managed care analyses of pharma data sources
- - Lead a project to streamline rep-centric IC payout processing for large sales forces (not understandable what this means)
+ - Created BI dashboards for managed care access and payer spine by analyzing data acquired from multiple stakeholders
+ - Led a project to streamline rep-centric IC payout processing for large sales forces (not understandable what this means)
 
 
 ## [Crompton Greaves](http://www.cgglobal.com/) 
+Crompton Greaves is an Indian multinational company engaged in the design, manufacturing and marketing of consumer electricals.
+
 ## Graduate Trainee - Production
 Goa, India, July 2016 - April 2017
 
-Description ...As part of the Production Planning team of the largest ceiling fan manufacturing facility in India, I was 
- - Implemented Master Production Schedules and SAP requisitions for the plant.
- - Formulated a planning tool for automatic capacity-based allocation of materials to vendors and subcontractors.
+As part of the Production Planning team of the largest ceiling fan manufacturing facility in India, I was responsible for implementing the Master Production Schedules and ensuring adherance to SAP requisitions. I also collaborated with other trainees to execute two poke yoke projects by automating precision tasks and positively impacted overall dispatch quality.
 
-
+Achievements- 
+ - Formulated a planning tool for capacity-based allocation of resources to vendors and subcontractors to address deviations resulting from recurring shortages reported on the shop
+ - Accomplished a 26% increase in online productivity by conceptualizing and implementing a cycle time reduction layout which was a major step towards the vision for lean lines
+ 
 # EDUCATION
 
 ## [Purdue University](https://www.purdue.edu/) 
