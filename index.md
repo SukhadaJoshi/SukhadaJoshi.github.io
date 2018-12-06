@@ -25,16 +25,54 @@ I am a student of Industrial Engineering with a passion for supply chain analyti
  - MS Office
 
 <dl>
- <table border="0">
-  <tr>
-     <td><b style="font-size:30px">Programming</b></td>
-     <td><b style="font-size:30px">Scientific Software</b></td>
-  </tr>
-  <tr>
-     <td>Lorem ipsum ...</td>
-     <td>Lorem ipsum ...</td>
-  </tr>
- </table>
+<table style="height: 63px; width: 45.2463%; border-collapse: collapse; border-style: none; float: left;" border="1">
+<tbody>
+<tr style="height: 21px;">
+<td style="width: 16.9365%; height: 21px;">
+<p><span style="color: #333399;"><strong>Programming</strong><strong></strong></span></p>
+<ul>
+<li>R +</li>
+<li>Python +</li>
+<li>Matlab ++</li>
+</ul>
+</td>
+<td style="width: 28.1953%; height: 21px;">
+<p><span style="color: #0000ff;"><strong>Scientific Software</strong></span></p>
+<ul>
+<li>Arena</li>
+<li>CAD</li>
+<li>SAS</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 16.9365%; height: 21px;">
+<p><strong>Data Visualization</strong></p>
+<ul>
+<li>Tableau ++++</li>
+</ul>
+</td>
+<td style="width: 28.1953%; height: 21px;">
+<p><strong>Business Software</strong></p>
+<ul>
+<li>SQL ++++</li>
+<li>SAP S/4 Hana</li>
+<li>MS Office</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 16.9365%; height: 21px;">
+<p><strong>Languages</strong></p>
+<ul>
+<li>Hindi</li>
+<li>Marathi</li>
+</ul>
+</td>
+<td style="width: 28.1953%; height: 21px;"><strong>Other</strong></td>
+</tr>
+</tbody>
+</table>
 </dl>
 
 ### Languages (Spoken)
