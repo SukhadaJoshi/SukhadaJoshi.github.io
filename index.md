@@ -100,7 +100,7 @@ Incentive Compensation (IC) plans are the instrument for building highly motivat
 Achievements-
  - Automated the sales compensation program for a US based pharmaceutical major to one click mobile reporting
  - Created BI dashboards for managed care access and payer spine by analyzing data acquired from multiple stakeholders
- - Led a project to streamline rep-centric IC payout processing for large sales forces (not understandable what this means)
+ - Led a project to streamline rep-centric IC payout processing by configuring an eligibility index for medical reps
 
 
 ## [Crompton Greaves](http://www.cgglobal.com/) 
@@ -121,17 +121,11 @@ Achievements-
 ## M.S. in Industrial Engineering
 
  Aug 2018 - Present
- 
- Description? What are you focusing on--interesting projects, research?
- 
- Relevant Coursework:
 
 ## [Visvesvaraya National Institute of Technology](https://en.wikipedia.org/wiki/Visvesvaraya_National_Institute_of_Technology)
 ## B.Tech. in Mechanical Engineering
 
 July 2012 – May 2016
-
-Thesis: Design of Dental Trays to Address Feeding Challenges of Cleft Palate Babies in India <add description, why is this relevant?>
 
 # Awards & Honors
 
