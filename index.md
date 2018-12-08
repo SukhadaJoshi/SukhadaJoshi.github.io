@@ -6,7 +6,7 @@ I am a student of Industrial Engineering with a passion for supply chain analyti
 ## SKILLS
 
 **Programming**
- - R
+ - SAS
  - Python
  - Matlab
 
